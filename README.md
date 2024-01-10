@@ -3,7 +3,8 @@
  Kill as many vampire bats as possible in 60 seconds.
  
 # Game info
-
+ 
+ - Vampire Bat = +1 kill point
  - Blood Ball = -5 kill point
  - Silver Coin = Game Over
  - Game speed increases every 10 seconds
